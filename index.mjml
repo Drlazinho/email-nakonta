@@ -6,6 +6,25 @@
       </mj-column>
     </mj-section>
 
+  <mj-section padding="0">
+      <mj-column width="300px">
+        <mj-text align="left" line-height="32px" font-size="28px" padding="80px 5px 10px 40px">
+          <h1 style="
+            margin: 0;
+            font-weight: 700;
+            font-size: 65px;
+            color:#4CAC33;
+        ">Cartões</h1>
+          <h2 style=" margin: 0; color:#4CAC33; padding-top: 20px; font-size: 29px; line-height: 40px">com custo ZERO e<br> Cashback!</h2>
+          <p style="font-size: 19px; padding: 0; margin: 0; line-height: 25px">No Nakonta você encontra<br> o melhor cartão para você!</p>
+        </mj-text>
+          <mj-button background-color="#4CAC33" color="white" width="260px" padding="5px 80px 30px 30px" border-radius="50px" href="https://nakonta.online/" font-weight="600" font-size="17px" line-height="60%">Abra sua conta agora</mj-button>
+      </mj-column>
+      <mj-column width="300px" padding="0">
+        <mj-image padding="0" src="https://github.com/Drlazinho/testemail/blob/master/assets/img/banner1.png?raw=true" width="300px" alt="Mulher propaganada Nakonta" />        
+      </mj-column>
+    </mj-section >
+
     <mj-section>
       
     </mj-section>
