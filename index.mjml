@@ -31,31 +31,44 @@
       </mj-column>
     </mj-section>
 
-        <mj-section background-color="#4CAC33" padding-bottom="0">
+    <mj-section background-color="#4CAC33" padding-bottom="0">
       <mj-column width="300px">
-        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card1.png?raw=true" alt="Anuidade Zero" />      
+        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card1.png?raw=true" alt="Anuidade Zero" />
       </mj-column>
       <mj-column width="300px">
-        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card2.png?raw=true" alt="cashback" />      
+        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card2.png?raw=true" alt="cashback" />
       </mj-column>
     </mj-section>
-    <mj-section background-color="#4CAC33">
+    <mj-section background-color="#4CAC33" padding-top="0">
       <mj-column width="300px">
         <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card3.png?raw=true" alt="Cartão Internacional" />
       </mj-column>
       <mj-column width="300px">
-        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card4.png?raw=true" alt="Descontos" />      
+        <mj-image src="https://github.com/Drlazinho/testemail/blob/master/assets/img/card4.png?raw=true" alt="Descontos" />
       </mj-column>
     </mj-section>
-
-    <mj-section>
-
+    <mj-section background-color=#EBE9E9>
+      <mj-column width="100%">
+        <mj-text align="center">
+          <p style="color: #999999; font-size: 14px; line-height: 17px">A <strong>Nakonta</strong> é uma nova opção do mercado para apresentar aos seus usuários as opções existentes de cartões de crédito, como objetivo de simplificar e agregar seus valores de forma simples e sofisticada. Nosso foco é apresentar ao usuário as <strong>vantagens de cada cartão</strong> de forma simples, rápida e direta.</p>
+        </mj-text>
+      </mj-column>
     </mj-section>
-    <mj-section>
-
-    </mj-section>
-    <mj-section>
-
+    <mj-section background-color=#999999>
+    <mj-column width="100%">
+      <mj-text align="center">
+        <p style="color: #EBE9E9; font-size: 10px; line-height: 15px">Ao informar os seus dados, você concorda que a Adworks Solutions como gestora do site possa utilizar seus dados para apresentar campanhas através de E-mails e/ou SMS. Os dados coletados nessa página não será comercializado para terceiros, segundo padrão da Lei Geral de Proteção aos Dados (LGPD)</p>
+      </mj-text>
+      <mj-social>
+        <mj-social-element name="facebook" href="https://mjml.io/" background-color=#999999 color=#EBE9E9>
+            Facebook
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com" background-color=#999999 color=#EBE9E9>
+            Instagram
+          </mj-social-element>
+      </mj-social>
+      <mj-image src="https://nakonta.online/assets/img/nakonta-logo.png" alt="logo nakonta" width="100px" />
+    </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
