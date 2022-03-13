@@ -1,0 +1,19 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color=#EBE9E9>
+      <mj-column>
+        <mj-image src="https://nakonta.online/assets/img/nakonta-logo.png" alt="Nakonta logo" align="center" width="250px" padding="10px 0"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      
+    </mj-section>
+    <mj-section>
+      
+    </mj-section>
+    <mj-section>
+      
+    </mj-section>
+  </mj-body>
+</mjml>
